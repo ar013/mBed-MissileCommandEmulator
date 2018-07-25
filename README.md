@@ -4,12 +4,12 @@ Emulator for a spin-off of the classic arcade game "Missile Command" to be run o
 -------------
 ## File Guide:
 
-	**Emulator:**
-	- ###game.cpp		=>	main C++ routines
-	- ###globals.h		=>	pushButton interrupts, Collision Checking Mechanism, Alien Generator
-	- ###ship.h/.cpp		=>	Ship Class Interface
-	- ###aliens.h/.cpp	  	=>	Alien Class Interfaces
+__	Emulator:  __
+	- game.cpp		=>	main C++ routines
+	- globals.h		=>	pushButton interrupts, Collision Checking Mechanism, Alien Generator
+	- ship.h/.cpp		=>	Ship Class Interface
+	- aliens.h/.cpp	  	=>	Alien Class Interfaces
 	
-	**mBed/Hardware Drivers:**
+	mBed/Hardware Drivers:
 	- mbed/		 	=>	mBed Drivers/Libraries
 	
