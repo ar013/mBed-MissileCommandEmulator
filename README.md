@@ -3,7 +3,7 @@
 -------------
 ## File Guide:
 
-	Emulator Files: 
+	Emulator: 
 	- game.cpp		=>	main C++ routines
 	- globals.h		=>	pushButton interrupts, Collision Checking Mechanism, Alien Generator
 	- ship.h/.cpp		=>	Ship Class Interface
